@@ -1,10 +1,4 @@
-# Python Projects ![icons8-python-48](https://github.com/swaapnaa/PYTHON_PROJECTS/assets/149737403/32f187c4-66ee-4288-9439-38a6b3950a14)
-
-
-This repository contains sample Python projects and code examples to showcase my skills and abilities.
-
-
-# Project: Data Profiling and Analysis of Company Data Using Python
+# Project: Data Profiling and Analysis of Company Data Using Python ![icons8-python-48](https://github.com/swaapnaa/PYTHON_PROJECTS/assets/149737403/32f187c4-66ee-4288-9439-38a6b3950a14)
 
 In this project, the objective was to perform data profiling and in-depth analysis on a multi-sheet Excel dataset containing information on companies, investments, acquisitions, and employees. The analysis included cleaning, transformation, and exploratory data visualization to uncover actionable insights. The dataset comprised four key sheets:
 
